@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="UD1_INICIO"/>
+	<classpathentry kind="src" path="UD2_INTRODUCCION_JAVA"/>
+	<classpathentry kind="src" path="UD3_ESTRUCTURAS_PROGRAMACION"/>
+	<classpathentry kind="src" path="UD4_ARRAYS"/>
+	<classpathentry kind="src" path="UD5_FUNCIONES"/>
+	<classpathentry kind="src" path="UD6_CADENAS_DE_CARACTERES"/>
+	<classpathentry kind="src" path="UD7_PROG_ORIENTADA_OBJETOS"/>
+	<classpathentry kind="src" path="UD8_POO_HERENCIAS"/>
+	<classpathentry kind="src" path="UD9_POO_INTERFACES"/>
+	<classpathentry kind="src" path="UD10_INTERFAZ_ARCHIVOS"/>
+	<classpathentry kind="src" path="UD11_INTERFAZ_GRAFICA"/>
+	<classpathentry kind="src" path="UD10_2_ARCHIVOS"/>
+	<classpathentry kind="src" path="EJERCICIOS_APOYO"/>
+	<classpathentry kind="src" path="EJEMPLOS_1ev"/>
+	<classpathentry kind="src" path="EXAMENES"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
